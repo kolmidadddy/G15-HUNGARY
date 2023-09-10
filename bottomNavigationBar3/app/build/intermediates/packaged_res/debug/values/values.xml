@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Vegetable</item>
+        <item>Meat/Fish</item>
+        <item>Dairy Products</item>
+        <item>Fruits</item>
+        <item>Seasoning</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="locations">
+        <item>Fridge</item>
+        <item>Kitchen</item>
+        <item>Freezer</item>
+        <item>Shelf</item>
+        <item>Drawer</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">bottomNavigationBar</string>
+    <string name="default_web_client_id" translatable="false">408765069521-ivociqm4nh9enb1r258maskc03q5oqco.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">408765069521</string>
+    <string name="google_api_key" translatable="false">AIzaSyC88-FYtJZ_Qjavcs4vcTXnOQReoIrf31g</string>
+    <string name="google_app_id" translatable="false">1:408765069521:android:4d1ef4e6fa24bbf312edf0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC88-FYtJZ_Qjavcs4vcTXnOQReoIrf31g</string>
+    <string name="google_storage_bucket" translatable="false">mad-assignment-2-test.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingredients_hint">Ingredients</string>
+    <string name="meal_calendar_text">Meal Calendar</string>
+    <string name="meal_hint">Meal</string>
+    <string name="project_id" translatable="false">mad-assignment-2-test</string>
+    <style name="Base.Theme.BottomNavigationBar" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.BottomNavigationBar" parent="Base.Theme.BottomNavigationBar"/>
+</resources>

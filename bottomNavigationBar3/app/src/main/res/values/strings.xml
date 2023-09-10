@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">bottomNavigationBar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="meal_hint">Meal</string>
+    <string name="ingredients_hint">Ingredients</string>
+    <string name="meal_calendar_text">Meal Calendar</string>
+
+    <string-array name="categories">
+        <item>Vegetable</item>
+        <item>Meat/Fish</item>
+        <item>Dairy Products</item>
+        <item>Fruits</item>
+        <item>Seasoning</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="locations">
+        <item>Fridge</item>
+        <item>Kitchen</item>
+        <item>Freezer</item>
+        <item>Shelf</item>
+        <item>Drawer</item>
+    </string-array>
+
+</resources>

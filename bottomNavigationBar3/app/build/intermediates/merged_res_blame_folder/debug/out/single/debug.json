@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_eatsy.png.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\eatsy.png"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_fragment_calendar.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_guide3.JPG.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\guide3.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_fridge.jpg.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\fridge.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_ic_baseline_local_grocery_store_24.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\ic_baseline_local_grocery_store_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_search_view_bg.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\search_view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_ic_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_activity_calendar.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\font_carter_one.ttf.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\font\\carter_one.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_notification_item.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\notification_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_locations.png.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\locations.png"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_ic_baseline_dehaze_24.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\ic_baseline_dehaze_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_fragment_grocery.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\fragment_grocery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_activity_category.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_ic_baseline_fastfood_24.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\ic_baseline_fastfood_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_agenda_item.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\agenda_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_rounded_edittext_background.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\rounded_edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_activity_full_shopping_list.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_full_shopping_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_locations_1.png.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\locations_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\font_alfa_slab_one.ttf.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\font\\alfa_slab_one.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_vegetable.png.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\vegetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_item.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_activity_notification.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_guide3.PNG.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\guide3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_other.jpg.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\other.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_activity_calendar_adapter.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_calendar_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_guide4.JPG.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\guide4.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_notification.png.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_dairy.png.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\dairy.png"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_activity_contact_us.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_activity_shopping_list.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_shopping_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_kitchen.jpg.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\kitchen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_round_btn.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\round_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_guide.jpg.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\guide.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_guide1.PNG.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\guide1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_shopping_list_item.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\shopping_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_meat.jpg.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\meat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_fruit.png.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\fruit.png"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_guide4.PNG.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\guide4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_spinner_border.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\spinner_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\font_jua.ttf.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\font\\jua.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\ic_baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_activity_guide.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_activity_cdairy_product_full.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_cdairy_product_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_guide2.JPG.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\guide2.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\font_andika.ttf.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\font\\andika.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_guide2.PNG.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\guide2.PNG"
+    },
+    {
+        "merged": "com.example.bottomnavigationbar.app-merged_res-32:/layout_agenda_item.xml.flat",
+        "source": "com.example.bottomnavigationbar.app-main-34:/layout/agenda_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_shelf.jpg.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\shelf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_activity_contact_us2.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_contact_us2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_shopping_list.png.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\shopping_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_seasoning.png.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\seasoning.png"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_email.jpg.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\email.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\font_baloo_bhaijaan.ttf.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\font\\baloo_bhaijaan.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_drinks.jpg.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\drinks.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\layout_item1.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-merged_res-32:\\drawable_freezer.png.flat",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\drawable\\freezer.png"
+    }
+]

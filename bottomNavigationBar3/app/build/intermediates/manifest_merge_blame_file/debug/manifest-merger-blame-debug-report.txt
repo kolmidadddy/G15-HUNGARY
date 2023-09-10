@@ -1,0 +1,308 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.bottomnavigationbar"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+11-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:5:5-77
+11-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:5:22-74
+12
+13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Lohju\.gradle\caches\transforms-3\ad16438b8acb16725c839493887d8519\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:5-79
+15-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Lohju\.gradle\caches\transforms-3\ad16438b8acb16725c839493887d8519\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:22-76
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Lohju\.gradle\caches\transforms-3\ad16438b8acb16725c839493887d8519\transformed\firebase-database-20.2.2\AndroidManifest.xml:25:5-67
+16-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Lohju\.gradle\caches\transforms-3\ad16438b8acb16725c839493887d8519\transformed\firebase-database-20.2.2\AndroidManifest.xml:25:22-64
+17
+18    <permission
+18-->[androidx.core:core:1.9.0] C:\Users\Lohju\.gradle\caches\transforms-3\3448a4e8a55cfcc99b4c2d313113d3ec\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+19        android:name="com.example.bottomnavigationbar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.9.0] C:\Users\Lohju\.gradle\caches\transforms-3\3448a4e8a55cfcc99b4c2d313113d3ec\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.9.0] C:\Users\Lohju\.gradle\caches\transforms-3\3448a4e8a55cfcc99b4c2d313113d3ec\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.example.bottomnavigationbar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.9.0] C:\Users\Lohju\.gradle\caches\transforms-3\3448a4e8a55cfcc99b4c2d313113d3ec\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.9.0] C:\Users\Lohju\.gradle\caches\transforms-3\3448a4e8a55cfcc99b4c2d313113d3ec\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:7:5-112:19
+25        android:allowBackup="true"
+25-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:8:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.9.0] C:\Users\Lohju\.gradle\caches\transforms-3\3448a4e8a55cfcc99b4c2d313113d3ec\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+27        android:dataExtractionRules="@xml/data_extraction_rules"
+27-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:9:9-65
+28        android:debuggable="true"
+29        android:extractNativeLibs="false"
+30        android:fullBackupContent="@xml/backup_rules"
+30-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:10:9-54
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:11:9-43
+32        android:label="@string/app_name"
+32-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:12:9-41
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:13:9-54
+34        android:supportsRtl="true"
+34-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:14:9-35
+35        android:testOnly="true"
+36        android:theme="@style/Theme.BottomNavigationBar" >
+36-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:15:9-57
+37        <activity
+37-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:17:9-19:40
+38            android:name="com.example.bottomnavigationbar.CalendarAdapter"
+38-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:18:13-44
+39            android:exported="false" />
+39-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:19:13-37
+40        <activity
+40-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:20:9-22:40
+41            android:name="com.example.bottomnavigationbar.ContactUsActivity"
+41-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:21:13-46
+42            android:exported="false" />
+42-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:22:13-37
+43        <activity
+43-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:23:9-25:40
+44            android:name="com.example.bottomnavigationbar.NotificationActivity"
+44-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:24:13-49
+45            android:exported="false" />
+45-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:25:13-37
+46        <activity
+46-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:26:9-28:40
+47            android:name="com.example.bottomnavigationbar.Full_Shopping_List"
+47-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:27:13-47
+48            android:exported="false" />
+48-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:28:13-37
+49        <activity
+49-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:29:9-31:40
+50            android:name="com.example.bottomnavigationbar.Guide"
+50-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:30:13-34
+51            android:exported="false" />
+51-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:31:13-37
+52        <activity
+52-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:32:9-34:40
+53            android:name="com.example.bottomnavigationbar.C_CategoryFull"
+53-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:33:13-43
+54            android:exported="false" />
+54-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:34:13-37
+55        <activity
+55-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:35:9-48:20
+56            android:name="com.example.bottomnavigationbar.SplashScreen"
+56-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:36:13-41
+57            android:exported="true"
+57-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:37:13-36
+58            android:label="@string/app_name" >
+58-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:38:13-45
+59            <intent-filter>
+59-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:39:13-43:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:17-69
+60-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:17-77
+62-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:27-74
+63            </intent-filter>
+64
+65            <meta-data
+65-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:45:13-47:36
+66                android:name="android.app.lib_name"
+66-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:46:17-52
+67                android:value="" />
+67-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:47:17-33
+68        </activity>
+69        <activity
+69-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:49:9-57:20
+70            android:name="com.example.bottomnavigationbar.MainActivity"
+70-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:50:13-41
+71            android:exported="true" >
+71-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:51:13-36
+72            <intent-filter>
+72-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:39:13-43:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:17-69
+73-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:25-66
+74
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:17-77
+75-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:27-74
+76            </intent-filter>
+77        </activity>
+78        <activity
+78-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:58:9-66:20
+79            android:name="com.example.bottomnavigationbar.C_DairyProductActivity"
+79-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:59:13-51
+80            android:exported="true" >
+80-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:60:13-36
+81            <intent-filter>
+81-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:39:13-43:29
+82                <action android:name="android.intent.action.MAIN" />
+82-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:17-69
+82-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:25-66
+83
+84                <category android:name="android.intent.category.LAUNCHER" />
+84-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:17-77
+84-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:27-74
+85            </intent-filter>
+86        </activity>
+87        <activity
+87-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:67:9-75:20
+88            android:name="com.example.bottomnavigationbar.C_OtherActivity"
+88-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:68:13-44
+89            android:exported="true" >
+89-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:69:13-36
+90            <intent-filter>
+90-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:39:13-43:29
+91                <action android:name="android.intent.action.MAIN" />
+91-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:17-69
+91-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:25-66
+92
+93                <category android:name="android.intent.category.LAUNCHER" />
+93-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:17-77
+93-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:27-74
+94            </intent-filter>
+95        </activity>
+96        <activity
+96-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:76:9-84:20
+97            android:name="com.example.bottomnavigationbar.C_VegetableActivity"
+97-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:77:13-48
+98            android:exported="true" >
+98-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:78:13-36
+99            <intent-filter>
+99-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:39:13-43:29
+100                <action android:name="android.intent.action.MAIN" />
+100-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:17-69
+100-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:25-66
+101
+102                <category android:name="android.intent.category.LAUNCHER" />
+102-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:17-77
+102-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:27-74
+103            </intent-filter>
+104        </activity>
+105        <activity
+105-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:85:9-93:20
+106            android:name="com.example.bottomnavigationbar.C_FruitActivity"
+106-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:86:13-44
+107            android:exported="true" >
+107-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:87:13-36
+108            <intent-filter>
+108-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:39:13-43:29
+109                <action android:name="android.intent.action.MAIN" />
+109-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:17-69
+109-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:25-66
+110
+111                <category android:name="android.intent.category.LAUNCHER" />
+111-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:17-77
+111-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:27-74
+112            </intent-filter>
+113        </activity>
+114        <activity
+114-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:94:9-102:20
+115            android:name="com.example.bottomnavigationbar.C_MeatActivity"
+115-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:95:13-43
+116            android:exported="true" >
+116-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:96:13-36
+117            <intent-filter>
+117-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:39:13-43:29
+118                <action android:name="android.intent.action.MAIN" />
+118-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:17-69
+118-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:25-66
+119
+120                <category android:name="android.intent.category.LAUNCHER" />
+120-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:17-77
+120-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:27-74
+121            </intent-filter>
+122        </activity>
+123        <activity
+123-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:103:9-111:20
+124            android:name="com.example.bottomnavigationbar.C_SeasoningActivity"
+124-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:104:13-48
+125            android:exported="true" >
+125-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:105:13-36
+126            <intent-filter>
+126-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:39:13-43:29
+127                <action android:name="android.intent.action.MAIN" />
+127-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:17-69
+127-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:40:25-66
+128
+129                <category android:name="android.intent.category.LAUNCHER" />
+129-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:17-77
+129-->C:\Users\Lohju\AndroidStudioProjects\bottomNavigationBar3\app\src\main\AndroidManifest.xml:42:27-74
+130            </intent-filter>
+131        </activity>
+132
+133        <service
+133-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Lohju\.gradle\caches\transforms-3\ad16438b8acb16725c839493887d8519\transformed\firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
+134            android:name="com.google.firebase.components.ComponentDiscoveryService"
+134-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Lohju\.gradle\caches\transforms-3\ad16438b8acb16725c839493887d8519\transformed\firebase-database-20.2.2\AndroidManifest.xml:29:13-84
+135            android:directBootAware="true"
+135-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Lohju\.gradle\caches\transforms-3\2ccca11268b2239fb5447702f18aded1\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+136            android:exported="false" >
+136-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Lohju\.gradle\caches\transforms-3\ad16438b8acb16725c839493887d8519\transformed\firebase-database-20.2.2\AndroidManifest.xml:30:13-37
+137            <meta-data
+137-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Lohju\.gradle\caches\transforms-3\ad16438b8acb16725c839493887d8519\transformed\firebase-database-20.2.2\AndroidManifest.xml:31:13-33:85
+138                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+138-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Lohju\.gradle\caches\transforms-3\ad16438b8acb16725c839493887d8519\transformed\firebase-database-20.2.2\AndroidManifest.xml:32:17-109
+139                android:value="com.google.firebase.components.ComponentRegistrar" />
+139-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Lohju\.gradle\caches\transforms-3\ad16438b8acb16725c839493887d8519\transformed\firebase-database-20.2.2\AndroidManifest.xml:33:17-82
+140        </service>
+141
+142        <activity
+142-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Lohju\.gradle\caches\transforms-3\db26e0b08265e02ed7e9e949bfc5f286\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+143            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+143-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Lohju\.gradle\caches\transforms-3\db26e0b08265e02ed7e9e949bfc5f286\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+144            android:exported="false"
+144-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Lohju\.gradle\caches\transforms-3\db26e0b08265e02ed7e9e949bfc5f286\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+145            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+145-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Lohju\.gradle\caches\transforms-3\db26e0b08265e02ed7e9e949bfc5f286\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+146
+147        <provider
+147-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Lohju\.gradle\caches\transforms-3\2ccca11268b2239fb5447702f18aded1\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+148            android:name="com.google.firebase.provider.FirebaseInitProvider"
+148-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Lohju\.gradle\caches\transforms-3\2ccca11268b2239fb5447702f18aded1\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+149            android:authorities="com.example.bottomnavigationbar.firebaseinitprovider"
+149-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Lohju\.gradle\caches\transforms-3\2ccca11268b2239fb5447702f18aded1\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+150            android:directBootAware="true"
+150-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Lohju\.gradle\caches\transforms-3\2ccca11268b2239fb5447702f18aded1\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+151            android:exported="false"
+151-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Lohju\.gradle\caches\transforms-3\2ccca11268b2239fb5447702f18aded1\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+152            android:initOrder="100" />
+152-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Lohju\.gradle\caches\transforms-3\2ccca11268b2239fb5447702f18aded1\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+153
+154        <meta-data
+154-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Lohju\.gradle\caches\transforms-3\798f7ae75199f254fc5fef178cd5bded\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+155            android:name="com.google.android.gms.version"
+155-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Lohju\.gradle\caches\transforms-3\798f7ae75199f254fc5fef178cd5bded\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+156            android:value="@integer/google_play_services_version" />
+156-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Lohju\.gradle\caches\transforms-3\798f7ae75199f254fc5fef178cd5bded\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+157
+158        <provider
+158-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lohju\.gradle\caches\transforms-3\6cae3ac9774d133ce539aeeb86ed0639\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+159            android:name="androidx.startup.InitializationProvider"
+159-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lohju\.gradle\caches\transforms-3\6cae3ac9774d133ce539aeeb86ed0639\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+160            android:authorities="com.example.bottomnavigationbar.androidx-startup"
+160-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lohju\.gradle\caches\transforms-3\6cae3ac9774d133ce539aeeb86ed0639\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+161            android:exported="false" >
+161-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lohju\.gradle\caches\transforms-3\6cae3ac9774d133ce539aeeb86ed0639\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+162            <meta-data
+162-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lohju\.gradle\caches\transforms-3\6cae3ac9774d133ce539aeeb86ed0639\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+163                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+163-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lohju\.gradle\caches\transforms-3\6cae3ac9774d133ce539aeeb86ed0639\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+164                android:value="androidx.startup" />
+164-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Lohju\.gradle\caches\transforms-3\6cae3ac9774d133ce539aeeb86ed0639\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+165            <meta-data
+165-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Lohju\.gradle\caches\transforms-3\45c5ef5e04e3b6c0e855b1ea1f0e76c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+166                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+166-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Lohju\.gradle\caches\transforms-3\45c5ef5e04e3b6c0e855b1ea1f0e76c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+167                android:value="androidx.startup" />
+167-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Lohju\.gradle\caches\transforms-3\45c5ef5e04e3b6c0e855b1ea1f0e76c6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+168        </provider>
+169    </application>
+170
+171</manifest>

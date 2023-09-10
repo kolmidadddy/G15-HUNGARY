@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\notification_item.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\notification_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\item.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\splash_screen.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\activity_full_shopping_list.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_full_shopping_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\activity_category.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\activity_calendar_adapter.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_calendar_adapter.xml"
+    },
+    {
+        "merged": "com.example.bottomnavigationbar.app-mergeDebugResources-31:/layout/agenda_item.xml",
+        "source": "com.example.bottomnavigationbar.app-main-34:/layout/agenda_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\activity_contact_us2.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_contact_us2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\agenda_item.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\agenda_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\shopping_list_item.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\shopping_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\activity_contact_us.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\activity_cdairy_product_full.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_cdairy_product_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\activity_shopping_list.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_shopping_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\activity_calendar.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\fragment_grocery.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\fragment_grocery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\activity_notification.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\item1.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\fragment_calendar.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lohju\\.gradle\\daemon\\8.0\\com.example.bottomnavigationbar.app-main-34:\\layout\\activity_main.xml"
+    }
+]
