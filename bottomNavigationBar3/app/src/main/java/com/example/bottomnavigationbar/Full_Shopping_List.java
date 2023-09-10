@@ -39,6 +39,8 @@ public class Full_Shopping_List extends AppCompatActivity {
 
     private SearchView searchView;
 
+    ArrayList<String> uniqueList;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,6 +56,7 @@ public class Full_Shopping_List extends AppCompatActivity {
         list=new ArrayList<>();
         ingredients=new ArrayList<>();
         food_list=new ArrayList<>();
+        uniqueList=new ArrayList<>();
 
         searchView=findViewById(R.id.searchView_shoppinglist);
         searchView.clearFocus();
@@ -72,7 +75,7 @@ public class Full_Shopping_List extends AppCompatActivity {
             }
         });
 
-        myAdapter= new ShoppingListAdapter(this,ingredients);
+        myAdapter= new ShoppingListAdapter(this,uniqueList);
         recyclerView.setAdapter(myAdapter);
 
 
@@ -90,6 +93,19 @@ public class Full_Shopping_List extends AppCompatActivity {
                     for(int j=0;j<list.get(i).getIngredient().size();j++){
                         ingredients.add(list.get(i).getIngredient().get(j));
                     }
+
+                    for (String item : ingredients) {
+                        if (!uniqueList.contains(item)) {
+                            uniqueList.add(item);
+                        }
+                    }
+
+
+
+
+
+
+
 
 
                 }
@@ -127,5 +143,19 @@ public class Full_Shopping_List extends AppCompatActivity {
         myAdapter.setFilteredList(list_item);
     }
 
+    public static ArrayList<String> removeDuplicates(ArrayList<String> list) {
+        // Create a new ArrayList to store unique items
+        ArrayList<String> uniqueList = new ArrayList<>();
 
+        for (String item : list) {
+            if (!uniqueList.contains(item)) {
+                // If the item is not already in the unique list, add it
+                uniqueList.add(item);
+            }
+        }
+
+        return uniqueList;
+    }
 }
+
+
